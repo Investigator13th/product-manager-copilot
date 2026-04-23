@@ -1,0 +1,5 @@
+# spec 目录是开发草稿区，不提交到 skill 仓库
+spec/
+
+# pm-workspace 是用户私有工作区，包含敏感的公司产品背景信息
+pm-workspace/
