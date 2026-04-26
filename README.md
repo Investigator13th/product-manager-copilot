@@ -1,27 +1,27 @@
 [中文](./README_zh.md)
 
-# 📋 product-manager-copilot | Senior PM Copilot
+# 🧠 Product Manager Copilot | 资深产品经理助手
 
-*Your exclusive high-level PM Copilot that transforms vague business ideas into engineering-ready, high-standard PRDs.*
+*A senior PM Copilot adept at transforming vague requirements into high-standard product deliverables using a structured "Seven-Step Discussion Method."*
 
-product-manager-copilot is a structured requirements analysis and PRD drafting skill. Through an original "Seven-Step Discussion Method," it guides users from business pain points through strategic deduction, AI experiment validation, and route trade-offs, ultimately producing engineering-standard Requirements Cards and Product Requirements Documents. It effectively prevents common product pitfalls like unclear requirements definition and confusion between business rules and technical details.
+Product Manager Copilot is your ultimate strategic partner at work, dedicated to turning one-sentence product ideas into actionable "Standard Requirement Cards" and "PRDs." Strictly adhering to the industry-standard "Seven-Step Discussion Method," it guides you from strategic positioning to tactical breakdown, dissecting business pain points to ensure every requirement forms a clear, closed loop.
 
 ---
 
 ### ✨ Core Highlights
 
--   **🪜 Structured Seven-Step Method**: Based on a complete deductive logic from "strategy to execution," guiding users step-by-step from problem definition to final DoD (Definition of Done) to avoid information overload.
--   **🛑 Dynamic AI Checkpoints**: Specifically designed for probabilistic AI requirements, enforcing an experimental testing loop before decision-making to guide technical routes with real data instead of intuition.
--   **🛡️ Intelligent Risk Avoidance**: Built-in "Four-Question Module Division" and historical Lessons Learned reading mechanism to automatically correct the bad smell of confusing business rules with technical details.
--   **📐 Standardized Deliverables**: Outputs standardized PRDs with Mermaid flowcharts and Requirements Cards, managing company context persistently within a private workspace.
+-   **🪜 Seven-Step Discussion Method**: Progresses logically from defining the problem and ideal state to concrete solutions, preventing analytical oversights.
+-   **📋 Standard Requirement Cards**: Helps you clarify key constraints and core gaps during project initiation, ensuring the team "does the right thing" before committing resources.
+-   **📝 High-Standard PRD Generation**: Not only organizes detailed business rules and boundaries but also automatically generates standard business flowcharts using Mermaid syntax.
+-   **🤖 AI Feature Validation**: Features a dedicated checkpoint for LLM and probabilistic functions, prompting for experimental data and fallback strategies to mitigate release risks.
 
 ---
 
 ### 🚀 Quick Start
 
-To quickly clarify requirements and output standard documentation, simply type the following command in the chat:
+To turn a vague idea into a rigorous Product Requirements Document, simply enter the following command in the chat:
 
-> **"Please enable the product-manager-copilot skill. I have a new product idea: we need to add multi-turn dialogue features to our AI Q&A. Help me sort out the ideas and produce a PRD."**
+> **"Please enable the Product Manager Copilot skill. I have a product idea to add multi-turn conversation capabilities to our AI Q&A product, help me think this through."**
 
 ---
 
