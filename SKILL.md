@@ -30,6 +30,9 @@ Ask the user (or infer from context) for their **PM Copilot workspace** path. Th
 > If needed, I can help read the template and auto-generate `context.md` and `lessons-learned.md` for you to fill in.
 > Once the workspace is ready and the context is filled, just tell me the path."
 
+> ⚠️ Workspace Path Specification: The `pm-workspace/` directory must be created in the **user's current working directory** (i.e., `$PWD` / `cwd` when the command is executed).
+> Do not search the global filesystem for directories with the same name. Before operating, confirm the current directory via `pwd` or equivalent, then use the relative path `./pm-workspace/`.
+
 ### 2. Load context.md
 
 Find and read `context.md` in the workspace. This file contains the business context, user personas, and technical boundaries that must be followed throughout the conversation.
