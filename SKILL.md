@@ -211,3 +211,4 @@ Ask the user if they agree with the proposed resolutions. If they agree, update 
 3. **Focus on product logic**: Describe only business logic, interactions, and AI fallback strategies
 4. **Visual communication**: Must use Mermaid diagrams for processes/state transitions
 5. **Context fidelity**: All decisions must reference the business context in `context.md` — no unfounded assumptions
+6. **Autonomous Context Maintenance**: Proactively extract new global business rules, terminology, and technical boundaries mentioned during PRD discussions, and ask the user if they should be automatically appended to `context.md` or `lessons-learned.md`. Keep the workspace living and updated without user cognitive load.
